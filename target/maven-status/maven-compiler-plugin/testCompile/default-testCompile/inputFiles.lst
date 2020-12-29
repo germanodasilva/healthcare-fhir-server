@@ -1,0 +1,7 @@
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/test/java/ca/uhn/fhir/jpa/starter/MultitenantServerR4IT.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/test/java/ca/uhn/fhir/jpa/starter/RandomServerPortProvider.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/test/java/ca/uhn/fhir/jpa/starter/SocketImplementation.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/test/java/ca/uhn/fhir/jpa/starter/ExampleServerDstu2IT.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/test/java/ca/uhn/fhir/jpa/starter/ExampleServerR4IT.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/test/java/ca/uhn/fhir/jpa/starter/ExampleServerR5IT.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/test/java/ca/uhn/fhir/jpa/starter/ExampleServerDstu3IT.java

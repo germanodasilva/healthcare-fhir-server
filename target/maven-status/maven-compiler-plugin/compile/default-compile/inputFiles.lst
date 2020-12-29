@@ -1,0 +1,11 @@
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/FhirServerConfigDstu3.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/FhirServerConfigCommon.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/FhirServerConfigR5.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/empi/EmpiConfig.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/FhirTesterConfig.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/JpaRestfulServer.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/FhirServerConfigR4.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/HapiProperties.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/FhirServerConfigDstu2.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/ApplicationContext.java
+/Users/gedasilv/Documents/RED-HAT/06-DEMOS/IDAAS/hapi-fhir-jpaserver-starter/src/main/java/ca/uhn/fhir/jpa/starter/BaseJpaRestfulServer.java
